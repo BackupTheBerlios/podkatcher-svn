@@ -1,0 +1,52 @@
+PODKATCHER - THE KDE PODCASTING CLIENT
+--------------------------------------
+
+What is podKatcher?
+-------------------
+
+podKatcher is an end-user desktop client for podcasting. 
+The software will provide functionality to find, search, 
+subscribe, archive, play back and create audio and video 
+podcasts.
+
+
+Optaining podKatcher
+--------------------
+
+Further information and the latest release can be obtained 
+at http://www.podkatcher.org
+
+
+Requirements
+------------
+
+Running podKatcher requires a recent KDE installation.
+
+
+Documentation
+-------------
+
+Documentation can be found at http://www.podkatcher.org
+
+
+Installation instructions
+-------------------------
+
+See the INSTALL file
+
+
+Licensing
+---------
+
+For licensing and copyright information, please see the file
+COPYING.txt in this distribution.
+
+
+Credits
+-------
+
+See http://www.podkatcher.org
+
+
+Yours truely,
+Fabio Bacigalupo.
